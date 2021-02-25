@@ -9,3 +9,7 @@ bin/console doctrine:migrations:migrate
 bin/console doctrine:database:import migrations/bootstrap.sql 
 
 php bin/phpunit
+
+
+Pentru vizualizare linkul e:
+http://127.0.0.1:8000/admin
